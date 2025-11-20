@@ -30,4 +30,11 @@ h2 {
   background-color: #000b3d;
   color: white;
 }
- 
+nav {
+  font-size: 25 px;
+  color:#ece6e6;
+  background-color:#ffde59;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+
+}
