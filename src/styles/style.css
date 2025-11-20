@@ -31,10 +31,12 @@ h2 {
   color: white;
 }
 nav {
-  font-size: 25 px;
+  font-size: 70 px;
   color:#ece6e6;
   background-color:#ffde59;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  gap: 40px;
   
+
 
 }
